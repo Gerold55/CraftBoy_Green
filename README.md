@@ -16,17 +16,7 @@ Updates since Beta by maligree
 Grass top fix (disable biome colours) by samus7694
 Grayscale pack by BigBlueDude
 
-Sprites ripped from many games, including:
-* Darkwing Duck
-* Dr. Mario
-* Kirby's Dream Land
-* Pocket Bomberman
-* Pokemon Red/Blue
-* Super Mario Land
-* Super Mario World
-* The Legend of Zelda: Link's Awakening
-* Wario Land: Super Mario Land 3
-* Unknown sources for some paintings.
+Paintings removed because of copyright issues.
 
 ...which means this pack HAS to be free, to avoid copyright problems.
 If you paid for it, you've been HAD!
